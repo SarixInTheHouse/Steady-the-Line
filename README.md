@@ -1,4 +1,4 @@
-# Steady-the-Line
+# Steady the Line
 A 2D, top-down strategy game focusing on real troop behavior, following time-appropriate drill manuals as well as simulating realistic combat, morale and command structures.
 
 ## License & Contributions
